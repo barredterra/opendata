@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Verpflegungsmehraufwand ab 1. Januar 2024",
+        "publisher": "Bundesministerium der Finanzen",
+        "source": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2023-11-21-steuerliche-behandlung-reisekosten-reisekostenverguetungen-2024.pdf?__blob=publicationFile&v=1",
+        "description": "Pauschbeträge in Euro für Verpflegungsmehraufwendungen und Übernachtungskosten im Ausland ab 1. Januar 2024",
+        "path": "verpflegungsmehraufwand_2024.csv"
+    }
+]
